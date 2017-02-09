@@ -15,6 +15,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".InformasiKuliah"></activity>
+        <activity android:name=".ProspekKuliah"></activity>
+        <activity android:name=".ReviewKuliah"></activity>
     </application>
 
 </manifest>
